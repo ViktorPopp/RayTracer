@@ -3,8 +3,8 @@
 int main()
 {
     // Image
-    int image_width = 64;
-    int image_height = 64;
+    int image_width = 256;
+    int image_height = 256;
 
     // Render
     std::cout
