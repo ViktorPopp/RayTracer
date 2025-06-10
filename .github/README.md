@@ -6,6 +6,10 @@ The ray tracer currently outputs images in the **Netpbm format**, with future pl
 
 ## Renders
 
+A sphere shaded using vector normals:
+
+![Normal shaded sphere](assets/normal_shaded_sphere.png)
+
 A non-shaded sphere:
 
 ![Non-shaded Sphere](assets/non_shaded_sphere.png)
