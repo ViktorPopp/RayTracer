@@ -6,6 +6,14 @@ The ray tracer currently outputs images in the **Netpbm format**, with future pl
 
 ## Renders
 
+A non-shaded sphere:
+
+![Non-shaded Sphere](assets/non_shaded_sphere.png)
+
+Simple sky gradiant:
+
+![Sky Gradiant](assets/sky_gradiant.png)
+
 My first render:
 
 ![1st Render](assets/1st_render.png)

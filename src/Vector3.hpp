@@ -43,7 +43,7 @@ struct Vector3 {
     }
 };
 
-using point3 = Vector3;
+using Point3 = Vector3;
 
 inline std::ostream& operator <<(std::ostream& out, const Vector3& v) {
     return out << v.x << ' ' << v.y << ' ' << v.z;
